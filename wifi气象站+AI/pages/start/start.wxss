@@ -1,0 +1,53 @@
+/* start.wxss */
+
+page{
+background-image: url('http://www.pptbz.com/pptpic/UploadFiles_6909/201306/2013062320262198.jpg')
+}
+
+#text1{
+  color: honeydew;
+  width:60%;
+  top:15%;
+  left:30%;
+  position: absolute
+}
+
+
+.radio-group{
+  left: 30%;
+  top: 30%;
+  position: absolute
+}
+
+#input{
+  background-color: #e5e5e5;
+  width: 60%;
+  height: 88rpx;
+  top: 45%;
+  left: 18%;
+  position: absolute
+  }
+
+  #text{
+  color: #888888;
+  font-family:PingFangSC-Regular;
+  font-size:12px;
+  top: 55%;
+  left: 17%;
+  position: absolute
+  }
+
+  #btn3{
+  height: 88rpx;
+  top: 60%;
+  width: 60%;
+  color: white;
+  background-color: #00aea1;
+  }
+
+  #text2{
+    color: chocolate;
+    top:75%;
+    left:20%;
+    position: absolute
+  }
